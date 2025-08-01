@@ -1,0 +1,16 @@
+//object declare korte { } bracket ussr kora hoy and prottek property er por , use kora hoy
+const Student={
+    name:"Rafy",
+    University:"Patuakhali Science and Technology University",
+    Id:2302070,
+    "visited place":["Rajshahi","Dhaka","Sylhet","Chattogram","Rangpur","Barishal"],
+}
+
+console.log(Student);
+
+console.log(Student.name);
+console.log(Student.University);
+console.log(Student.Id);
+console.log(Student["visited place"]);  // property name multiple word hole r majhe 
+                                         // white space ba special notation thakle 
+                                         // third bracket er maddhome access neoya jabe 

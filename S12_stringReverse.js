@@ -5,6 +5,8 @@ let str2="";
     let letter=str1[i];
     str2=letter+str2;
 }
+
+or another way
  */
 
 for(let letter of str1)
