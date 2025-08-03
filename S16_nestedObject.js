@@ -22,3 +22,6 @@ console.log(college);
 
 console.log(college.unique);
 console.log(college.unique.result.merit);
+
+delete college.event;   //for delete a property
+console.log(college);
